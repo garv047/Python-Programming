@@ -1,0 +1,7 @@
+#escape sequences
+# \n next line
+# \t tab space
+# \\ using \ in text or string
+# \" using " in text or string
+# \b for deleting the previous leter (just before \b)
+# \r replacing text and can be used as loop in same line (garv\rbhatia - garv will be replaced by bhatia)
