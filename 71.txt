@@ -1,0 +1,10 @@
+when to use each file
+
+r : only read data from existing files. shows error if file does not exist (FileNotFoundError).
+w : create new file or over write existing one. usefull for saving new data but exixting content will be lost.
+a : add new data to end of existing file without deleting its content.
+x : create a new file but avoid over writting any existing file.
+rb wb : when dealing with non text files like images or executables.
+
+How to open
+open("filename","mode") - like for opening mail.txt : open("mail.txt","r")
