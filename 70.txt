@@ -1,0 +1,17 @@
+Key files
+
+r : open file for reading(default)
+
+w : creates new file or overwrite
+
+a : adds data at end
+
+x : creates file error if exist
+
+rb : read binary files
+
+wb : write binary files
+
+r+ : read write
+
+a+ : append and read
