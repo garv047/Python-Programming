@@ -1,0 +1,18 @@
+os module
+os.getcwd() - get current directory
+
+os.chdir(path) - change directory
+
+os.listdir() - list files and folders
+
+os.mkdir(name) - create single folder
+
+osmakedirs() - create nested folders
+
+os.remove(file) - delete file
+
+os.rmdir(folder) - remove empty folder
+
+os.path.exists(path) - check existance before operation
+
+Note :- always check existance before creating or deleting
