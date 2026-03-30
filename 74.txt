@@ -1,0 +1,13 @@
+Exception model
+when an error occurs
+
+Error
+TypeError
+
+IndexError
+
+ValueError
+
+ZeroDivisionError
+
+FileNotFoundError
