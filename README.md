@@ -34,5 +34,4 @@ Strings
 
 Basic Problem Solving
 
-
-This is my learning journey, so the code may not be perfect. I'm improving every day 🙂
+## This is my learning journey, so the code may not be perfect. I'm improving every day 🙂
