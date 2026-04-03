@@ -1,6 +1,6 @@
 # Python-Programming
 
-##🐍 Python Programming
+## 🐍 Python Programming
 
 This repository contains my Python programming practice and learning.
 
